@@ -1,0 +1,140 @@
+Exclusions: 
+
+7/2/17--
+MedCareers
+Excludsion:
+GetIt_JobBoard25_XML - 2209
+Jobcase_API_high - 1356
+Beyond_API_Boolean - 1462 (7/3/17)
+Beyond_FullJD_All - 1027
+Jobcase_Med_All - 2032 (7/4/17)
+RL_API - 1266
+Startwire_API - 2181
+ST_Board_API - 1970
+
+7/6/17 -- 
+MedCareers Exclusions:
+2171 - FB_XML_CPC
+
+7/7/17 -- 
+--MedCareers Exclusions:
+2423	lensa_jobboard_xml
+--FranchiseGator Un-Exclude:
+All|RestorationMedia
+Zip_Direct|Zip recruiter
+LiveCareer_APIv2 | Bold Limited (LiveCareer
+Jobcase_Med_Direct | Jobcase Inc
+ResultsGeneration | Results Generation
+Jobcase_High_All | Jobcase Inc
+Lead5_DirectCPC_XML | Lead5 Media
+Cogo_XML | CogoLabs
+ALL | RestorationMediaXML
+--DriverJobs exclusions (spending too hot even with cap):
+2889-Fluent_API_Warehouse\
+
+
+7/11/17
+exclusions for Locumjobs 
+Jobcase Inc.	2029	
+Results Generation	
+AdBrilliant	2502	
+StartWire	124	
+AdBrilliant	647	
+Fluent	1084	Fluent_API
+Digital Performance GmbH	2974
+
+7/12/17
+include for TravelNurseSource:
+Jobcase Inc.	2029
+AdBrilliant	2502
+Regional Help Wanted	945
+XML back in
+Jobcase_Healthcare_All
+Startwire_API
+Fluent_API
+
+exclusions for 
+
+add back to medcareers
+2423	lensa_jobboard_xml
+1027	Beyond_FullJD_All
+
+add back for real match P5:
+Results Generation	926
+Job.com	2882
+All_Jobs | Happie
+Salary_API | Salary.com
+1463	Firebrick_API_Boolean
+
+add back 7/17/17
+Travel Nurse Source:
+fluent on camp editor
+AdBrilliant_APIv2 | AdBrilliant
+RegionalHelpWanted_API | Regional Help Wanted
+LocalJobService_API | Data Prosper LLC
+
+farms.com-agcareer exclude: 
+2502	JobsEye_API_SMS	
+Fire Brick Group	1463	Firebrick_API_Boolean	
+Jobcase Inc.	1356	Jobcase_API_high
+Trending Jobs B.V.	3153	TrendingJobs_API
+
+job.com exclude
+1140	SimplyJobs_SMS_API
+1925	WA_API	2.25₵	15₵	133	$7.70	2 | 0 | 0	1.50% | 0.00% | 0.00%	$15.41	INCLUDE
+StartJobs	2813	SJ-Bing-Notifications
+
+7/19/17
+job.com exclude
+1266	RL_API
+3028	simply-job.net (Email)
+3496	BOLD_20_XML
+213	ResultsGeneration
+1203	Careinhomes_webAPI
+327	PostJobFree_XML
+3644	RJ-FB-Board
+3084	FBG_API_NoQ
+2810	SJ-Bing-Email
+2590	Legendary__API
+3373	Results - LJI - Mobile
+2826	SJ-Board	4.35₵	15₵	101	$7.31	2 | 0 | 0	1.98% | 0.00% | 0.00%	$14.62	INCLUDE
+Job Spot (midamerican.com)	3280	MAC_Direct_XML
+3568	ZTT
+2032	Jobcase_Med_All
+
+
+excluded for zippyapp
+2620	LocalJobService_API
+1084	Fluent_API
+	2632	mbs_directemployer_api
+2181	Startwire_API
+
+7/20/17
+removed from exclusions jobjobber
+AP_API | ApplicantPro
+MBS_API | DigiPropz LLC
+LiveCareer_APIv2 | Bold Limited
+ResultsGen_New 
+BuzzCareer_API
+RegionalHelpWanted_API | 
+
+
+7/21/17
+included back for jobjobber
+StartWire	2181	Startwire_API
+Results Generation	213	ResultsGeneration
+109	Jobdiagnosis_3feeds_XML
+Startwire_API | StartWire
+ADDED MOBILE FRIENDLY to the CAMPAIGN TO START TOMORROW 
+
+
+7/24/17
+Franchise Gator exclusions
+Lead5 Media	518	Lead5_3XMLFeeds	30.00₵	25₵	506	$50.60	0 | 3 | 0	0.00% | 0.59% | 0.00%	$151.81	INCLUDE
+Beyond	3357	Beyond_AllJobs_API	24.00₵	17₵	292	$26.24	0 | 3 | 0	0.00% | 1.03% | 0.00%	$78.73	INCLUDE
+Results Generation	926	ResultsGen_New	24.00₵	10₵	255	$0.00	0 | 0 | 0	0.00% | 0.00% | 0.00%	$74.40	INCLUDE
+Neuvoo	3149	Neuvoo_CPC_15	30.00₵	20₵	159	$0.00	0 | 0 | 0	0.00% | 0.00% | 0.00%	$46.80	INCLUDE
+Get It LLC	2122	GetIt_CPC_XML	36.00₵	15₵	95	$0.00	0 | 0 | 0	0.00% | 0.00% | 0.00%	$29.28	INCLUDE
+Resume-Library.com	1266	RL_API	60.00₵	12₵	50	$0.00	0 | 0 | 0	0.00% | 0.00% | 0.00%	$17.16	INCLUDE
+Jobcase Inc.	1356	Jobcase_API_high	42.00₵	16₵	50	$0.00	0 | 0 | 0	0.00% | 0.00% | 0.00%	$15.30	INCLUDE
+AdBrilliant	2502	JobsEye_API_SMS
