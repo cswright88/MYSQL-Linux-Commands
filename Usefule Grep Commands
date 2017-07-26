@@ -1,0 +1,11 @@
+grep -o "search" file | wc -l                            - count of occurrences 
+grep "search" file | sort | uniq -c                    - count of each unique occurrence 
+grep "search" file | sort | uniq -c | sort -n       - count of each unique occurrence asc
+grep "search" file | sort | uniq -c | sort -rn      - count of each unique occurrence desc
+grep -A 10...                                                  - grabs 10 lines after search
+grep -B 10...                                                  - grabs 10 lines before search
+grep -C 10...                                                  - grabs 10 lines before and after search
+
+Input "/" while in a less command to search in file. 
+
+(By Josh Hauser)
